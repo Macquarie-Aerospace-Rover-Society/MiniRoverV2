@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ProPrj_Minirover Design_2026-09-03-import-fps") (type "KiCad") (uri "${KIPRJMOD}/ProPrj_Minirover Design_2026-09-03-import-fps.pretty") (options "kicad_import_cache=1") (descr ""))
+)
