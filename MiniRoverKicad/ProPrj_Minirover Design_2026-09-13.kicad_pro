@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ProPrj_Minirover Design_2026-09-03.kicad_pro",
+    "filename": "ProPrj_Minirover Design_2026-09-13.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -649,27 +649,22 @@
     "meta": {
       "version": 1
     },
-    "page_layout_descr_file": "empty.kicad_wks",
+    "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "ProPrj_Minirover Design_2026-09-03.kicad_sch",
-        "name": "Schematic1",
-        "uuid": "7a9bb136-5089-4810-9a73-49c806984454"
+        "filename": "ProPrj_Minirover Design_2026-09-13.kicad_sch",
+        "name": "ProPrj_Minirover Design_2026-09-13",
+        "uuid": "00000000-0000-0000-0000-000000000000"
       }
     ],
     "used_designators": "",
     "variants": []
   },
-  "sheets": [
-    [
-      "7a9bb136-5089-4810-9a73-49c806984454",
-      "Schematic1"
-    ]
-  ],
+  "sheets": [],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
